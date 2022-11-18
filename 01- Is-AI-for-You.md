@@ -1,4 +1,4 @@
-### What is AI
+### What is hydra.ai?
 AI or artificial intelligence is the way to simulate human intelligence in making the processes intelligent, automated, adaptive, and self-learning. There is endless potential and numerous use case of AI in businesses, healthcare, and city management that have already been identified. However, incoprporating custom applications of AI into existing systems require a lot of effort. In this tutorial, three important questions are addressed:
 1. Is there any use case and benefit of AI in my business?
 2. What is the effort required to incorporate AI in the existing system?
@@ -22,13 +22,23 @@ AI is equipped with such models and artifacts that can process the email text to
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/202747792-030fa414-c624-4288-97f7-b4ae536909d3.png" width="600" height="310" />
 </p>
+
+##### Is incorporate AI simple enough?
+It turns out that like any other software system, implementing AI into any existing system brings it's own requirements and challenges. In fact, it is often not a definitive sequence of steps to incorporate AI in any existing system. Depending on nature of system, objectives, and data under consideration the process may requires customized steps to realize the potential of AI. In the following diagram, a generic flow of steps in implementing an email classification system are illustrated. Choosing the process flow can vary even for similar tasks. Therefore, it requires learning new skills centered around AI, machine learning, and data science. However, is learning these new skills possible quickly, and is there a route around? This is the focal contribution that hydra.ai brings, and is unraveld next.
 <p align="center">
 <img src="https://academy.geomant.com/hs-fs/hubfs/Building%20a%20Machine%20Learning-based%20Email%20Classification%20Model.png?width=1363&name=Building%20a%20Machine%20Learning-based%20Email%20Classification%20Model.png" width="600" height="310" />
 </p>
+
+##### Can incorporation of AI become easy and quick?
+**hydra.ai** provides the pre-built custome containers with different AI capabilities. A system that aims to incorporate AI in the existing system finds an easy step-by-step wizard to select and put the AI model to use in no time. For instance, **hydra.ai** provides the pre-built model for email classification and prioritization. In the figure below, it is revealed that incorporation of this AI capability can be achieved with a few clicks in a few minutes without having to learn new skills, master those, design the solution, and seemlessly integrate it in the existing system.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/202778179-23edee59-ad16-40c2-99fb-25fee9063eb9.png" width="600" height="310" />
 </p>
 
+
+
+
+-----------------------------------------------------------------End of Text------------------------------------------------------------------------
 - Increase productivity
 - Provide insights from data
 
