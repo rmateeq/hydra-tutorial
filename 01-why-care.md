@@ -8,3 +8,9 @@ In the follwoing, usecases from various application domains are presented to fur
 ### Usecase2
 
 ### Usecase3
+
+
+--------------------------------------------------------
+
+How many usecases to include?
+Detail of each usecase?
