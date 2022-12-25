@@ -5,7 +5,7 @@ In the follwoing, usecases from various application domains are presented to fur
 
 ### Usecase1
 <center>
-<img src="https://user-images.githubusercontent.com/7511849/208298674-d7bc62e0-4e23-4231-9c0e-877199146e2b.png" width="650" height="400" />
+<img src="https://user-images.githubusercontent.com/7511849/208298674-d7bc62e0-4e23-4231-9c0e-877199146e2b.png" width="750" height="350" />
 </center>
 ### Usecase2
 ![uc-intent-detection drawio (1)](https://user-images.githubusercontent.com/7511849/208298694-b6553d74-b2ba-4de1-9a9c-97211c78c05c.png)
