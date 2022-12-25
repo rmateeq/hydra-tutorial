@@ -15,7 +15,7 @@ In the follwoing, usecases from various application domains are presented to fur
 
 ### Usecase3
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/208298700-5fb03797-a3ae-4d3c-9a9e-516226a690c6.png" width="650" height="310" />
+<img src="https://user-images.githubusercontent.com/7511849/208298700-5fb03797-a3ae-4d3c-9a9e-516226a690c6.png" width="550" height="240" />
 </p>
 --------------------------------------------------------
 
