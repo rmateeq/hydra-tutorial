@@ -20,7 +20,3 @@ Envision the framework of a social media management platform integrating multipl
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/208298700-5fb03797-a3ae-4d3c-9a9e-516226a690c6.png" width="550" height="240" />
 </p>
---------------------------------------------------------
-
-How many usecases to include?
-Detail of each usecase?
