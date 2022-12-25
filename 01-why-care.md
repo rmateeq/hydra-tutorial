@@ -10,6 +10,7 @@ Imagine a customer filling a support ticket for a complaint or service request, 
 </p>
 
 ### Usecase2
+Imagine the community website that aims to filter or flag the inappropriate posts/comments. AI can come to recue by doing it's best to identify and classify the content according to the given criteria. The figure below illustrates a scenario where a community website filters the posts/comments intending the personal promotions of somekind and allows the appropriate ones only. This involves delicate text processing that requires the AI power. 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/208298694-b6553d74-b2ba-4de1-9a9c-97211c78c05c.png" width="600" height="320" />
 </p>
