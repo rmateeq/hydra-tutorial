@@ -10,12 +10,12 @@ In the follwoing, usecases from various application domains are presented to fur
 
 ### Usecase2
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/208298694-b6553d74-b2ba-4de1-9a9c-97211c78c05c.png" width="650" height="350" />
+<img src="https://user-images.githubusercontent.com/7511849/208298694-b6553d74-b2ba-4de1-9a9c-97211c78c05c.png" width="600" height="320" />
 </p>
 
 ### Usecase3
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/208298700-5fb03797-a3ae-4d3c-9a9e-516226a690c6.png" width="750" height="350" />
+<img src="https://user-images.githubusercontent.com/7511849/208298700-5fb03797-a3ae-4d3c-9a9e-516226a690c6.png" width="650" height="310" />
 </p>
 --------------------------------------------------------
 
