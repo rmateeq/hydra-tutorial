@@ -10,12 +10,13 @@ Imagine a customer filling a support ticket for a complaint or service request, 
 </p>
 
 ### Usecase2
-Imagine the community website that aims to filter or flag the inappropriate posts/comments. AI can come to recue by doing it's best to identify and classify the content according to the given criteria. The figure below illustrates a scenario where a community website filters the posts/comments intending the personal promotions of somekind and allows the appropriate ones only. This involves delicate text processing that requires the AI power. 
+Think of a community website that aims to filter or flag the inappropriate posts/comments. AI can come to recue by doing it's best to identify and classify the content according to the given criteria. The figure below illustrates a scenario where a community website filters the posts/comments intending the personal promotions of somekind and allows the appropriate ones only. This involves delicate text processing that requires the AI power. 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/208298694-b6553d74-b2ba-4de1-9a9c-97211c78c05c.png" width="600" height="320" />
 </p>
 
 ### Usecase3
+Envision the framework of a social media management platform integrating multiple social media profiles of an individual or a company. In addition to the basic options available on a particular social media platforms, this integration adds several new dimentions of choices increasing the complexity. AI can learn the most used and appropriate actions overtime and can adapt naturally. An example is describes in the figure below where an AI powered system recommends the most appropriate options/actions for a user in the context.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/208298700-5fb03797-a3ae-4d3c-9a9e-516226a690c6.png" width="550" height="240" />
 </p>
