@@ -4,6 +4,7 @@ AI, refered to as the **new electricity**, is at the realistic verge of transofr
 In the follwoing, usecases from various application domains are presented to further clear the perspective:
 
 ### Usecase1
+Imagine a customer filling a support ticket for a complaint or service request, etc. Using the power of AI, the software system can recommend the releavnt articles/tutorials to potentially save the time of cutomer as well as service provider. The figure below depicts a scenario
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/208298674-d7bc62e0-4e23-4231-9c0e-877199146e2b.png" width="750" height="350" />
 </p>
