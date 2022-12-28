@@ -28,7 +28,7 @@ What is an acerous? Well, instead of answering this question directly, let's hav
 - A triceratops is non-acerous
 - A lemur is acerous
 - A dog is acerous
-- A girraffe is non-acerous
+- A giraffe is non-acerous
 - A goat is non-acerous
 - A cat is acerous
 - A parrot is acerous
