@@ -17,5 +17,21 @@ The major limitation of this rule-based AI is that it can be used to build deter
 
 ### Machine learning
 Machine learning on the other hand has the capability to define it's own rules based on data. The system can learn and adapt as new data emerges. This capacity to learn and adapt has made machine learning the most popular choice while integrating intelligence is software systems.
+As an example, let's consider the question [this example is taken from Sebastian Thun's Intro to ML course on Udacity]
 
+- "is horse an acerous?"
 
+What is an acerous? Well, instead of answering this question directly, let's have a few examples that can help us learn this.
+
+- An elephant is acerous
+- A ram is non-acerous
+- A triceratops is non-acerous
+- A lemur is acerous
+- A dog is acerous
+- A girraffe is non-acerous
+- A goat is non-acerous
+- A cat is acerous
+- A parrot is acerous
+- A deer is non-acerous
+
+Before answering this question, let's discuss the approach. We need to look at different features to decide. These features could be color, number of legs, and horns, etc. And it happens that a horse is an **acerous**. Why? Because a horse does not have either horns or antlers. Whereas, all the animals in non-acerous group have. This demonstrates the process and capability of machine learning to learn something new by itself as new data emerges.
