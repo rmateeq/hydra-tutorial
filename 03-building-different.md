@@ -5,3 +5,4 @@ Computer programming has been around for over a century now. As the emergence of
 Isn't it enough to enable incorporation of AI into the modern day software? Well, not really! Because the purpose of computer programming has primarily been to produce specific software with very deterministic behavior mimicing the logic given to it. It does not aim to integrate any generic behavior, adaptation or self-learning which is the aim of AI. In a nutshell, the purpose of AI is to enable computers to learn to adapt as the new situations emerge based on their experience rather than waiting for the programmer to do explicit modification.
 
 Is it possible? Yes, the jounery is ongoing and significant milestones have been achieved already. Let's shift the focus on different types of capabilities that AI can help build, and conventional programming and software engineering cannot.
+
