@@ -1,5 +1,12 @@
 ## Types of AI
 
+```
+let's add a section for deep learning as well
+would be good to discuss an example under each of these
+
+Also, what do you think is the more appropriate title for this section? Should it be types of AI or various approaches to AI?
+```
+
 AI is a broad term that has evolved overtime. The purpose here is to understand the necessary types of artifacts, constructs, and models that AI provides to make software applications intelligent. Although, this list is long, let's confine te discussion to two broad categories, namely rule-based AI and machine learning.
 
 ### Rule-based AI
