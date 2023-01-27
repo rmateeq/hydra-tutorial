@@ -29,6 +29,16 @@ It turns out that like any other software system, implementing AI into any exist
 <img src="https://academy.geomant.com/hs-fs/hubfs/Building%20a%20Machine%20Learning-based%20Email%20Classification%20Model.png?width=1363&name=Building%20a%20Machine%20Learning-based%20Email%20Classification%20Model.png" width="600" height="310" />
 </p>
 
+##### A three question test to determine whether AI can help
+```
+Adding this section as a draft/ place holder. will refine more...
+```
+
+1. The task in question takes up considerable amount of time or effort
+2. The task in question takes place considerable number of times
+3. The task takes in unstructured inputs 
+
+
 ##### Can incorporation of AI become easy and quick?
 **hydra.ai** provides the pre-built custome containers with different AI capabilities. A system that aims to incorporate AI in the existing system finds an easy step-by-step wizard to select and put the AI model to use in no time. For instance, **hydra.ai** provides the pre-built model for email classification and prioritization. In the figure below, it is revealed that incorporation of this AI capability can be achieved with a few clicks in a few minutes without having to learn new skills, master those, design the solution, and seemlessly integrate it in the existing system.
 <p align="center">
