@@ -67,3 +67,5 @@ Unlike supervised and unsupervised learning, in reinforcement learning, there is
 
 #### Deep Learning
 Having discussed primary categories of machine learning with some brief examples, it is inevitable to mention deep learning to complete the discussion. Deep learning has taked to the world by storm recently by laveraging it's capability to learn in systems involving massive and complex data. Deep learning is being used to realized some amazing applications in computer vision, speech recognition, natural language processing, and generative models (that can generate new data based on existing data).
+
+In the next section, we turn our attnetion to some popular use case of different types of AI.
