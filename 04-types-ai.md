@@ -22,7 +22,7 @@ This predicate can be used with the above rule to draw the inference that "socra
 
 The major limitation of this rule-based AI is that it can be used to build deterministic systems only where the data is small and rules are clear. Such systems cannot learn new things themselves.
 
-### Machine learning
+### Machine Learning
 Machine learning on the other hand has the capability to define it's own rules based on data. The system can learn and adapt as new data emerges. This capacity to learn and adapt has made machine learning the most popular choice while integrating intelligence is software systems.
 As an example, let's consider the question [this example is taken from Sebastian Thun's Intro to ML course on Udacity]
 
@@ -41,4 +41,19 @@ What is an acerous? Well, instead of answering this question directly, let's hav
 - A parrot is acerous
 - A deer is non-acerous
 
-Before answering this question, let's discuss the approach. We need to look at different features to decide. These features could be color, number of legs, and horns, etc. And it happens that a horse is an **acerous**. Why? Because a horse does not have either horns or antlers. Whereas, all the animals in non-acerous group have. This demonstrates the process and capability of machine learning to learn something new by itself as new data emerges.
+Before answering this question, let's discuss the approach. We need to look at different features to decide. These features could be color, number of legs, and horns, etc. And it happens that a horse is an **acerous**. Why? Because a horse does not have either horns or antlers. Whereas, all the animals in non-acerous group have. This demonstrates the process and capability of machine learning to learn something new by itself as new data emerges. 
+
+Machine learning is further classified into different categories. Although, it is a vast developing debate, however, some popular approaches are listed below:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Recommender Systems
+4. Anomaly Detection
+5. Reinforcement Learning
+
+Let's discuss these types in slight detail.
+
+#### Supervised Learning
+It is widely beieved that almost 99% of the value that machine learning is generating is coming from supervised learning. In this approach the historical data is available with true answers. A model is trained on that data to learn the general pattern in the data and is later used to predict the cases where true answer is not known. The example of "horse being acerous" perfectly fits in this category because we knew for different animals whether they were acerous or not. Through those examples, machine learning would somehow generalize the facts that lead to the conclusion of another (initially uncategorized) animal being acerous or not.
+
+#### Unsupervised Learning
