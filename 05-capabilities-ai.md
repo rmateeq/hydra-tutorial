@@ -4,10 +4,11 @@ In this section, we aim to provide some common use-cases and capabilitites that 
 
 Here is a list of common applications of supervised learning with a brief description of each:
 - Fraud detection: In this application, a supervised learning model is trained on labeled data to identify fraudulent transactions and detect fraudulent behavior.
-- Stock price prediction: In this application, a supervised learning model is trained on historical stock price data to predict future stock prices.
-- Customer churn prediction: In this application, a supervised learning model is trained on customer behavior data to predict which customers are likely to cancel their services or stop using a product.
+- Stock price prediction: The aim is to use historical stock price data to predict future stock prices. To achieve this, supervised learning models are trained on historical stock data with a goal to maximize the potential gain by investing in the right stocks.
+- Customer churn prediction: The purpose is to identify cutomers why may potentially unsubscribe to the services or products of the business. In this application, a supervised learning model is trained on customer behavior data to predict such customers and take preemptive measure to retain them to maintain business health.
 - Healthcare diagnosis: In this application, a supervised learning model is trained on medical data to diagnose diseases and predict patient outcomes.
 - Credit risk analysis: In this application, a supervised learning model is trained on financial data to predict the likelihood of loan defaults and assess credit risk.
+- Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later.
 
 These are just a few examples of the many applications of supervised learning. The choice of a supervised learning algorithm and the specific problem it is used to solve will depend on the nature of the data and the desired outcome.
 
