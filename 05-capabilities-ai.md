@@ -11,7 +11,64 @@ Here is a list of common applications of supervised learning with a brief descri
 - Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later.
 - Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions.
 
+Accounts payable automation
+
+Workorder processing workflows
+
+Call center recordings review
+
+PII detection
+
+Data loss prevention (DLP)
+
+Mortgage application processing
+
+Lease application processing
+
+Claims processing
+
+Grants application processing
+
+Rental application workflows
+
+HR sourcing workflows
+
+Customer onboarding
+
+Investor onboarding
+
+Vendor onboarding
+
+Partner onboarding
+
+Call recording compliance
+
+Contract management workflows
+
+Case management
+
+Expense processing
+
+Investment workflows
+
+Marketing content tagging
+
+HR sourcing
+
+Propensity marketing
+
+
+
+
 These are just a few examples of the many applications of supervised learning. The choice of a supervised learning algorithm and the specific problem it is used to solve will depend on the nature of the data and the desired outcome.
+
+### Use-Cases: Unsupervised Learning
+
+- Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions.
+
+### Use-Cased: Recommender Systems
+
+### Use-Cases: Reinforcement Learning
 
 ### Use-Cases: Deep Learning
 
