@@ -9,6 +9,7 @@ Here is a list of common applications of supervised learning with a brief descri
 - Healthcare diagnosis: The objective is to diagnose various patient conditions and outcome of medicines and treatmenrs. To accomplish this, supervised learning model is trained on medical data for predictive diagnosis as well as patient outcomes.
 - Credit risk analysis: The focus is to minimize the risk of financial credits and thus maximize the potential of recoverability. This is achieved by training supervised learning model on financial data to predict the likelihood of loan defaults before deciding the credit cases.
 - Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later.
+- Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions.
 
 These are just a few examples of the many applications of supervised learning. The choice of a supervised learning algorithm and the specific problem it is used to solve will depend on the nature of the data and the desired outcome.
 
