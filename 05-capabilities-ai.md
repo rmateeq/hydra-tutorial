@@ -77,3 +77,35 @@ Image classification: In this application, a supervised learning model is traine
 Speech recognition: In this application, a supervised learning model is trained on labeled speech data to transcribe speech into text and understand spoken commands.
 
 Natural language processing (NLP): In this application, a supervised learning model is trained on labeled text data to perform tasks such as sentiment analysis, text classification, and machine translation.
+
+--------------------------------------------------------------------------------
+AI has a wide range of capabilities that can be leveraged to solve a variety of problems across various industries. Some of the most common AI capabilities are:
+
+Image and Video Processing: Object recognition, image classification, facial recognition, image segmentation, and video analysis.
+
+Natural Language Processing: Text classification, sentiment analysis, named entity recognition, machine translation, and speech recognition.
+
+Predictive Modeling: Predictive maintenance, demand forecasting, risk assessment, fraud detection, and customer behavior prediction.
+
+Robotics and Automation: Autonomous vehicles, industrial robots, drones, and process automation.
+
+Decision Making: Recommendation systems, personalized marketing, intelligent decision support systems, and recommendation engines.
+
+Chatbots and Virtual Assistants: Customer service chatbots, virtual shopping assistants, and conversational interfaces.
+
+Healthcare: Disease diagnosis, drug discovery, personalized medicine, and medical image analysis.
+
+Financial Services: Fraud detection, credit scoring, algorithmic trading, and portfolio optimization.
+
+Manufacturing: Predictive maintenance, quality control, supply chain optimization, and process automation.
+
+Security: Intrusion detection, cyber threat intelligence, and biometric authentication.
+
+Environmental Monitoring: Weather prediction, climate modeling, and environmental monitoring.
+
+Education: Adaptive learning, student performance prediction, and educational recommendation systems.
+
+These are just a few examples of the many capabilities that can be built with AI. The potential for AI is constantly evolving, and new applications and use cases are being discovered all the time.
+
+
+
