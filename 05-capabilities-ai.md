@@ -3,15 +3,27 @@ In this section, we aim to provide some common use-cases and capabilitites that 
 ### Use-Case: Supervised Learning
 
 Here is a list of common applications of supervised learning with a brief description of each:
-- Fraud detection: The purpose is to use data to identify fradulent transactions or activities. Using supervised learning, model is trained on labeled data to identify fraudulent transactions and detect fraudulent behavior to prevent financial loses.
-- Stock price prediction: The aim is to use historical stock price data to predict future stock prices. To achieve this, supervised learning models are trained on historical stock data with a goal to maximize the potential gain by investing in the right stocks.
-- Customer churn prediction: The purpose is to identify cutomers why may potentially unsubscribe to the services or products of the business. In this application, a supervised learning model is trained on customer behavior data to predict such customers and take preemptive measure to retain them to maintain business health.
-- Healthcare diagnosis: The objective is to diagnose various patient conditions and outcome of medicines and treatmenrs. To accomplish this, supervised learning model is trained on medical data for predictive diagnosis as well as patient outcomes.
-- Credit risk analysis: The focus is to minimize the risk of financial credits and thus maximize the potential of recoverability. This is achieved by training supervised learning model on financial data to predict the likelihood of loan defaults before deciding the credit cases.
-- Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later.
-- Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions.
+- Image classification: In this application, a supervised learning model is trained on a large dataset of labeled images to identify objects, scenes, or activities in new images.
+- Speech recognition: In this application, a supervised learning model is trained on labeled speech data to transcribe speech into text and understand spoken commands.
+- Natural language processing (NLP): In this application, a supervised learning model is trained on labeled text data to perform tasks such as sentiment analysis, text classification, and machine translation.
+- Robotics and Automation: Autonomous vehicles, industrial robots, drones, and process automation.
+- Decision Making: Recommendation systems, personalized marketing, intelligent decision support systems, and recommendation engines.
+- Chatbots and Virtual Assistants: Customer service chatbots, virtual shopping assistants, and conversational interfaces.
+- Healthcare: Disease diagnosis, drug discovery, personalized medicine, and medical image analysis.
+- Financial Services: Fraud detection, credit scoring, algorithmic trading, and portfolio optimization.
+- Manufacturing: Predictive maintenance, quality control, supply chain optimization, and process automation.
+- Security: Intrusion detection, cyber threat intelligence, and biometric authentication.
+- Environmental Monitoring: Weather prediction, climate modeling, and environmental monitoring.
 
-Accounts payable automation
+Education: Adaptive learning, student performance prediction, and educational recommendation systems.
+- Fraud detection: The purpose is to use data to identify fradulent transactions or activities. Using supervised learning, model is trained on labeled data to identify fraudulent transactions and detect fraudulent behavior to prevent financial loses. Some possible types of frauds may involve credir cards, insurance, identity, and healthcare claims, and e-commerce.
+- Stock price prediction: The aim is to use historical stock price data to predict future stock prices. To achieve this, supervised learning models are trained on historical stock data with a goal to maximize the potential gain by investing in the right stocks. Stock price prediction may involve analysis of fundamental financial data, and sentiment analysis from news and social media.
+- Customer churn prediction: The purpose is to identify cutomers why may potentially unsubscribe to the services or products of the business. In this application, a supervised learning model is trained on customer behavior data to predict such customers and take preemptive measure to retain them to maintain business health. Different approaches relevant for customer churn prediction include recency, frequency, monetary analysis; customer segmentation based on different common factors, and natural lanaguage processing to analyze the text based feedback from customers.
+- Healthcare diagnosis: The objective is to diagnose various patient conditions and outcome of medicines and treatmenrs. To accomplish this, supervised learning model is trained on medical data for predictive diagnosis as well as patient outcomes. Machine learning can be used for medical image analysis, learning from electronic health records, personalized medicine, and remote patient monitoring.
+- Credit risk analysis: The focus is to minimize the risk of financial credits and thus maximize the potential of recoverability. This is achieved by training supervised learning model on financial data to predict the likelihood of loan defaults before deciding the credit cases. Techniques like application scoring, fraud detection, behavioral scoring, portfolio analysis, and stress testing are common when in comes to credit risk analysis.
+- Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later. Sentiment analysis, contextual analysis, and natural language processing in general are helpful to carry out such tasks. 
+- Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions. Customer upsell/cross-sell, sales lead scoring, customer retention, and pricing optimization are some of the relevant terms in connection to opportunity flagging.
+- Accounts payable automation:
 
 Workorder processing workflows
 
@@ -21,25 +33,9 @@ PII detection
 
 Data loss prevention (DLP)
 
-Mortgage application processing
-
-Lease application processing
-
-Claims processing
-
-Grants application processing
-
-Rental application workflows
-
 HR sourcing workflows
 
 Customer onboarding
-
-Investor onboarding
-
-Vendor onboarding
-
-Partner onboarding
 
 Call recording compliance
 
@@ -47,9 +43,6 @@ Contract management workflows
 
 Case management
 
-Expense processing
-
-Investment workflows
 
 Marketing content tagging
 
@@ -59,51 +52,11 @@ Propensity marketing
 
 
 
-
-These are just a few examples of the many applications of supervised learning. The choice of a supervised learning algorithm and the specific problem it is used to solve will depend on the nature of the data and the desired outcome.
-
-### Use-Cases: Unsupervised Learning
-
-- Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions.
-
-### Use-Cased: Recommender Systems
-
-### Use-Cases: Reinforcement Learning
-
-### Use-Cases: Deep Learning
-
-Image classification: In this application, a supervised learning model is trained on a large dataset of labeled images to identify objects, scenes, or activities in new images.
-
-Speech recognition: In this application, a supervised learning model is trained on labeled speech data to transcribe speech into text and understand spoken commands.
-
-Natural language processing (NLP): In this application, a supervised learning model is trained on labeled text data to perform tasks such as sentiment analysis, text classification, and machine translation.
-
 --------------------------------------------------------------------------------
 AI has a wide range of capabilities that can be leveraged to solve a variety of problems across various industries. Some of the most common AI capabilities are:
 
-Image and Video Processing: Object recognition, image classification, facial recognition, image segmentation, and video analysis.
 
-Natural Language Processing: Text classification, sentiment analysis, named entity recognition, machine translation, and speech recognition.
 
-Predictive Modeling: Predictive maintenance, demand forecasting, risk assessment, fraud detection, and customer behavior prediction.
-
-Robotics and Automation: Autonomous vehicles, industrial robots, drones, and process automation.
-
-Decision Making: Recommendation systems, personalized marketing, intelligent decision support systems, and recommendation engines.
-
-Chatbots and Virtual Assistants: Customer service chatbots, virtual shopping assistants, and conversational interfaces.
-
-Healthcare: Disease diagnosis, drug discovery, personalized medicine, and medical image analysis.
-
-Financial Services: Fraud detection, credit scoring, algorithmic trading, and portfolio optimization.
-
-Manufacturing: Predictive maintenance, quality control, supply chain optimization, and process automation.
-
-Security: Intrusion detection, cyber threat intelligence, and biometric authentication.
-
-Environmental Monitoring: Weather prediction, climate modeling, and environmental monitoring.
-
-Education: Adaptive learning, student performance prediction, and educational recommendation systems.
 
 These are just a few examples of the many capabilities that can be built with AI. The potential for AI is constantly evolving, and new applications and use cases are being discovered all the time.
 
