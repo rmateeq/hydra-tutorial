@@ -1,21 +1,10 @@
 In this section, we aim to provide some common use-cases and capabilitites that may interest the businesses, industries, governments, and other stakeholders. Although, we have tried to cover most of the relevant applications, however this list is not exhaustive by any means.
 
-### Use-Case: Supervised Learning
-
-Here is a list of common applications of supervised learning with a brief description of each:
-- Image classification: In this application, a supervised learning model is trained on a large dataset of labeled images to identify objects, scenes, or activities in new images.
-- Speech recognition: In this application, a supervised learning model is trained on labeled speech data to transcribe speech into text and understand spoken commands.
-- Natural language processing (NLP): In this application, a supervised learning model is trained on labeled text data to perform tasks such as sentiment analysis, text classification, and machine translation.
-- Robotics and Automation: Autonomous vehicles, industrial robots, drones, and process automation.
-- Decision Making: Recommendation systems, personalized marketing, intelligent decision support systems, and recommendation engines.
-- Chatbots and Virtual Assistants: Customer service chatbots, virtual shopping assistants, and conversational interfaces.
-- Healthcare: Disease diagnosis, drug discovery, personalized medicine, and medical image analysis.
-- Financial Services: Fraud detection, credit scoring, algorithmic trading, and portfolio optimization.
-- Manufacturing: Predictive maintenance, quality control, supply chain optimization, and process automation.
-- Security: Intrusion detection, cyber threat intelligence, and biometric authentication.
-- Environmental Monitoring: Weather prediction, climate modeling, and environmental monitoring.
-
-Education: Adaptive learning, student performance prediction, and educational recommendation systems.
+- Image classification: Image calssification is often carried out using large dataset of labeled images to identify objects, scenes, or activities in new images. Different application domains popular for image processing include object detection, face recognision, and medical diagnostics.
+- Speech recognition: Machine learning has significantly contributed to the computers ability to recognize human speech. The purpose is to train the models on speech data to transcribe speech into text and understand spoken commands. In addition to transcription, visrtual assistance, automated call handling, voice search, captioning, and language translations are some of the popular application areas for speech recognition.
+- Natural language processing (NLP): In this application, a supervised learning model is trained on labeled text data to perform tasks such as sentiment analysis, text classification, and machine translation. The capabilities that NLP brings include sentiment analysis, chatbots, text summarization, named entity recognition, and text classification, etc.
+- Environmental monitoring: Protection of environment has become a growing concern overtime. Weather prediction, climate modeling, air and water quality monitoring, wildlife monitoring, forest fire detection, land use monitoring, and hazardous waste monitoring are among the applications that are considered useful.
+- Education: Education is no exception when it comes to benefitting from machine learning. Systems like adaptive learning, student performance prediction, educational recommendation systems, grading and assessment, and curriculum design; all have potential to benefit from machine learning.
 - Fraud detection: The purpose is to use data to identify fradulent transactions or activities. Using supervised learning, model is trained on labeled data to identify fraudulent transactions and detect fraudulent behavior to prevent financial loses. Some possible types of frauds may involve credir cards, insurance, identity, and healthcare claims, and e-commerce.
 - Stock price prediction: The aim is to use historical stock price data to predict future stock prices. To achieve this, supervised learning models are trained on historical stock data with a goal to maximize the potential gain by investing in the right stocks. Stock price prediction may involve analysis of fundamental financial data, and sentiment analysis from news and social media.
 - Customer churn prediction: The purpose is to identify cutomers why may potentially unsubscribe to the services or products of the business. In this application, a supervised learning model is trained on customer behavior data to predict such customers and take preemptive measure to retain them to maintain business health. Different approaches relevant for customer churn prediction include recency, frequency, monetary analysis; customer segmentation based on different common factors, and natural lanaguage processing to analyze the text based feedback from customers.
@@ -24,39 +13,6 @@ Education: Adaptive learning, student performance prediction, and educational re
 - Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later. Sentiment analysis, contextual analysis, and natural language processing in general are helpful to carry out such tasks. 
 - Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions. Customer upsell/cross-sell, sales lead scoring, customer retention, and pricing optimization are some of the relevant terms in connection to opportunity flagging.
 - Accounts payable automation:
-
-Workorder processing workflows
-
-Call center recordings review
-
-PII detection
-
-Data loss prevention (DLP)
-
-HR sourcing workflows
-
-Customer onboarding
-
-Call recording compliance
-
-Contract management workflows
-
-Case management
-
-
-Marketing content tagging
-
-HR sourcing
-
-Propensity marketing
-
-
-
---------------------------------------------------------------------------------
-AI has a wide range of capabilities that can be leveraged to solve a variety of problems across various industries. Some of the most common AI capabilities are:
-
-
-
 
 These are just a few examples of the many capabilities that can be built with AI. The potential for AI is constantly evolving, and new applications and use cases are being discovered all the time.
 
