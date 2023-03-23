@@ -71,6 +71,7 @@ In the following table, we list a few primitive examples of supervised, unsuperv
 
 
 <p align="center">
+  
 |Learning Type|Sub-Category|Example|
 |----------|----------|----------|
 |Supervised|Classification|Predicting if an email is spam or not based on its content.|
@@ -81,6 +82,7 @@ In the following table, we list a few primitive examples of supervised, unsuperv
 |Unsupervised|Anomaly Detection|Detecting fraudulent transactions in a financial dataset.|
 |Unsupervised|Recommender System|Recommending movies by grouping of users based on similar interests.|
 |Reinforcement||An agent can learn to pick up a box and place it on a table by receiving a positive reward for successfully completing the task and a negative reward for dropping the box.|
+
 </p>
 
 
