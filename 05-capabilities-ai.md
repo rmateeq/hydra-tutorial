@@ -12,9 +12,5 @@ In this section, we aim to provide some common use-cases and capabilitites that 
 - Credit risk analysis: The focus is to minimize the risk of financial credits and thus maximize the potential of recoverability. This is achieved by training supervised learning model on financial data to predict the likelihood of loan defaults before deciding the credit cases. Techniques like application scoring, fraud detection, behavioral scoring, portfolio analysis, and stress testing are common when in comes to credit risk analysis.
 - Customer request prioritization: The purpose is to sort and prioritize customer requests based on their importance and urgency. The goal is to ensure that the most important and urgent requests are attended to first, while less important requests are addressed later. Sentiment analysis, contextual analysis, and natural language processing in general are helpful to carry out such tasks. 
 - Opportunity flagging: The goal is to automatically flag interactions that are most likely to result in a sale using machine learning algorithms that are trained on labeled data to identify potential sales opportunities in customer interactions. Customer upsell/cross-sell, sales lead scoring, customer retention, and pricing optimization are some of the relevant terms in connection to opportunity flagging.
-- Accounts payable automation:
 
 These are just a few examples of the many capabilities that can be built with AI. The potential for AI is constantly evolving, and new applications and use cases are being discovered all the time.
-
-
-
