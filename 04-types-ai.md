@@ -65,6 +65,9 @@ Recommender systems can be based on either or both of supervised and unsupervise
 #### Reinforcement Learning
 Unlike supervised and unsupervised learning, in reinforcement learning, there is no historical data to learn from. An agent learns to make decisions by interacting with the system in real-time. The systems uses rewards for good decisions and penalties for bad decisions. Playing chess or any other game as well as self-driving cars use reinformcement learning to improve the performance over time. In chess, an agent (player) can make moves and receive a reward for making good moves and a penalty for making bad moves. Over time, the agent will learn to make better moves based on the rewards and penalties it receives, eventually leading to it becoming a skilled chess player.
 
+|Learning Type|Sub-Category|Example|
+|----------|----------|----------|
+
 #### Deep Learning
 Having discussed primary categories of machine learning with some brief examples, it is inevitable to mention deep learning to complete the discussion. Deep learning has taked to the world by storm recently by laveraging it's capability to learn in systems involving massive and complex data. Deep learning is being used to realized some amazing applications in computer vision, speech recognition, natural language processing, and generative models (that can generate new data based on existing data).
 
