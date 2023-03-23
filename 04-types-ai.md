@@ -56,7 +56,9 @@ Let's discuss these types in slight detail.
 #### Supervised Learning
 It is widely beieved that most of the value that machine learning is generating is coming from supervised learning. In this approach the historical data is available with true answers. A model is trained on that data to learn the general pattern in the data and is later used to predict the cases where true answer is not known. The example of "horse being acerous" perfectly fits in this category because we knew for different animals whether they were acerous or not. Through those examples, machine learning would somehow generalize the facts that lead to the conclusion of another (initially uncategorized) animal being acerous or not. 
 
+```
 Supervised learning is further divided into two sub-categories: classification, and regression. In classification, the output is categorical and is limited. In the example of horse being acerous or non-acerous, the output is categorical and we are trying to classify an animal into pre-defined set of classes (which in this case are two). In regression, the output is continuous. A common example is to predict the house prices based on different features like area, number of bedroom, etc.
+```
 
 #### Unsupervised Learning
 Like supervised learning, unspervised learning also basis it's outcomes in data. However, unlike supervised learning, the data is not labeled or the true answers are not known. One of the most common example of unsupervised learning is news article grouping or clustering based on common terms and/or themes. As a more tanglible case, Google groups the news articles from various sources and publishers based on commmon terms. Anomaly detection often also falls under unsupervised learning.
@@ -67,6 +69,7 @@ Recommender systems can be based on either or both of supervised and unsupervise
 #### Reinforcement Learning
 Unlike supervised and unsupervised learning, in reinforcement learning, there is no historical data to learn from. An agent learns to make decisions by interacting with the system in real-time. The systems uses rewards for good decisions and penalties for bad decisions. Playing chess or any other game as well as self-driving cars use reinformcement learning to improve the performance over time. In chess, an agent (player) can make moves and receive a reward for making good moves and a penalty for making bad moves. Over time, the agent will learn to make better moves based on the rewards and penalties it receives, eventually leading to it becoming a skilled chess player.
 
+```
 In the following table, we list a few primitive examples of supervised, unsupervised, and reinforcement learning.
 
 
@@ -84,7 +87,7 @@ In the following table, we list a few primitive examples of supervised, unsuperv
 |Reinforcement||An agent can learn to pick up a box and place it on a table by receiving a positive reward for successfully completing the task and a negative reward for dropping the box.|
 
 </p>
-
+```
 
 #### Deep Learning
 Having discussed primary categories of machine learning with some brief examples, it is inevitable to mention deep learning to complete the discussion. Deep learning has taked to the world by storm recently by laveraging it's capability to learn in systems involving massive and complex data. Deep learning is being used to realized some amazing applications in computer vision, speech recognition, natural language processing, and generative models (that can generate new data based on existing data).
