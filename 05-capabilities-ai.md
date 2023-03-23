@@ -1,3 +1,5 @@
+## What Can You Build with AI: Examples
+
 In this section, we aim to provide some common use-cases and capabilitites that may interest the businesses, industries, governments, and other stakeholders. Although, we have tried to cover most of the relevant applications, however this list is not exhaustive by any means.
 
 - Image classification: Image calssification is often carried out using large dataset of labeled images to identify objects, scenes, or activities in new images. Different application domains popular for image processing include object detection, face recognision, and medical diagnostics.
