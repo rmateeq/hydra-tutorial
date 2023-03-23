@@ -9,7 +9,7 @@ Is it possible? Well, one example of a problem that can be solved with AI but no
 
 This approach has proven highly effective in applications such as virtual assistants, speech-to-text transcription, and automated call centers. By using AI techniques, these systems can achieve high levels of accuracy even in noisy or challenging environments, and they can adapt to new speech patterns and languages with minimal human intervention.
 <--------<p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227346470-b972d4e3-eb7b-4b6e-8f8f-b63f8d792ebd.png" width="750" height="650" />
+<img src="https://user-images.githubusercontent.com/7511849/227346470-b972d4e3-eb7b-4b6e-8f8f-b63f8d792ebd.png" width="650" height="550" />
 </p>
 The jounery to use AI in designing applications and solving real-life problems that are otherwise challenging or even impossible, is ongoing and significant milestones have been achieved already. Let's shift the focus on different types of capabilities that AI can help build, and conventional programming and software engineering cannot.
 
