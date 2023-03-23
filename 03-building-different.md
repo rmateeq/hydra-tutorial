@@ -8,7 +8,8 @@ Isn't it enough to enable incorporation of AI into the modern day software? Well
 Is it possible? Well, one example of a problem that can be solved with AI but not with legacy programming is speech recognition. Legacy programming techniques typically involve writing a set of rules that determine how the system should interpret incoming audio signals and convert them into text. However, these rules can be complex and difficult to maintain, and they may not be able to handle the wide range of accents, dialects, and speaking styles that exist in the real world. In contrast, AI techniques can be used to train a system to recognize speech patterns without relying on explicit rules. By analyzing large amounts of audio data and identifying patterns in the data, the system can learn to recognize different speech sounds and map them to corresponding text.
 
 This approach has proven highly effective in applications such as virtual assistants, speech-to-text transcription, and automated call centers. By using AI techniques, these systems can achieve high levels of accuracy even in noisy or challenging environments, and they can adapt to new speech patterns and languages with minimal human intervention.
-<--------
-
+<--------<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227346470-b972d4e3-eb7b-4b6e-8f8f-b63f8d792ebd.png" width="750" height="650" />
+</p>
 The jounery to use AI in designing applications and solving real-life problems that are otherwise challenging or even impossible, is ongoing and significant milestones have been achieved already. Let's shift the focus on different types of capabilities that AI can help build, and conventional programming and software engineering cannot.
 
