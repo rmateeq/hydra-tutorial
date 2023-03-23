@@ -11,8 +11,11 @@ Isn't it enough to enable incorporation of AI into the modern day software? Well
 
 `Let's visualize it in the perspective of app design. We can break down the AI/ML capaability into two parts as shown in the diagram below. The first part may be regarded as the rules sub-layer that contains the domain knowledge, and the second part may be regarded as the inference sub-layer that applies the inference rules on available knowledge to draw the inferences. The major difference between rule-based AI and machine learning is that the prior requires the rules to be supplied to the system whereas the later has the capability to learn, adapt, and generate its own rules. This is the main reason that renders machine learning more practical at solving problems that cannot be exhaustively modeled using legacy software engineering approaches.`<--------
 
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7511849/227346470-b972d4e3-eb7b-4b6e-8f8f-b63f8d792ebd.png" width="550" height="550" />
 </p>
+
+
 The jounery to use AI in designing applications and solving real-life problems that are otherwise challenging or even impossible, is ongoing and significant milestones have been achieved already. Let's shift the focus on different types of capabilities that AI can help build, and conventional programming and software engineering cannot.
 
