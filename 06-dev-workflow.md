@@ -12,6 +12,10 @@ This section aims to define a high level process flow to develop a (standalone) 
 
 2. Chosing Method: Once the problem is defined and it is decided that it is more viable and suitable to solve it using AI instead of legacy exhaustive methods, the next step is to decide the type of AI to solve the problem. From rule-based AI to different types of ML and deep learning models may be considered and choosen based on the relevant factor. These factors may include the type of problem (e.g., classification, regression, clustering, etc.), type and size of data as the data may be labelled or unlabelled, structured or unstructured, stores using conventional or modern scalable systems, etc.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227783618-8b980958-b6e3-4efa-bc81-62106a0c5343.png" width="450" height="295" />
+</p>
+
 3. Data Collection: Having chosen the right methods, the next important steps in most cases is sourcing the data. Data may come from the ongoing processes (which makes this step easier), or may base on designed collection (which is usually challenging). Without the right quality and quantity of data, most AI/ML systems cannot be realized. However, some simpler systems might rely on rule-based AI and may not need data as a primary factor to learn from. Other situations, for example, reinforcement learning may also need less of prior data to start functioning. Here are some factors related to data collection that are important to consider:
     1. Data Relevance: The data used to train the machine learning model should be relevant to the problem at hand. Irrelevant data can lead to biased or inaccurate predictions.
     2. Data Quantity: The amount of data available for training the machine learning model is a critical factor in determining its performance. Generally, more data leads to better model performance, but too much data can lead to computational and storage issues.
