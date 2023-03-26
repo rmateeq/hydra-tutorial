@@ -25,8 +25,9 @@ This section aims to define a high level process flow to develop a (standalone) 
     6. Data Privacy and Security: Data used in machine learning models may contain sensitive information, and it is essential to ensure that the data collection process is compliant with privacy and security regulations.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227787527-38fc8761-1aa1-4021-bf02-925af5fd8c23.png" width="500" height="150" />
+<img src="https://user-images.githubusercontent.com/7511849/227787527-38fc8761-1aa1-4021-bf02-925af5fd8c23.png" width="650" height="215" />
 </p>
+
 4. Data Preprocessing: It is usually required to clean, transform and normalize the data to ensure it is in a suitable format for modeling. Depending on the condition of data, the effort for data preprocessing may vary. Following are some factors related to data preprocessing that are important to consider:
     1. Data Cleaning: The process of identifying and correcting or removing errors, incomplete data, or outliers that can affect the quality of the data.
     2. Data Transformation: The process of converting the raw data into a format that can be used by the machine learning model. This includes converting categorical data into numerical data, scaling or normalizing the data, and performing feature engineering.
