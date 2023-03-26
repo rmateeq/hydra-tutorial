@@ -6,6 +6,10 @@ This section aims to define a high level process flow to develop a (standalone) 
 
 1. Problem Definition: As with all, the journey of AI-based systems also begin with problem definition. A few questions are important to identify if AI is the suitable approach for the problem under consideration. For example, why can't the system be implemented using legacy exhaustive algorithmic approaches?, is the system supposed to learn and evolve overtime? Once the need for AI is well understood, the next set of questions arise that tend to define the business objective, target audience, data availability, overall feasibility, and success criteria. Having defined the problem, next step is to determine if AI/ML can be used to address it.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227782937-6f75873b-61f6-41d6-91f7-39170bbb73c0.png" width="450" height="350" />
+</p>
+
 2. Chosing Method: Once the problem is defined and it is decided that it is more viable and suitable to solve it using AI instead of legacy exhaustive methods, the next step is to decide the type of AI to solve the problem. From rule-based AI to different types of ML and deep learning models may be considered and choosen based on the relevant factor. These factors may include the type of problem (e.g., classification, regression, clustering, etc.), type and size of data as the data may be labelled or unlabelled, structured or unstructured, stores using conventional or modern scalable systems, etc.
 
 3. Data Collection: Having chosen the right methods, the next important steps in most cases is sourcing the data. Data may come from the ongoing processes (which makes this step easier), or may base on designed collection (which is usually challenging). Without the right quality and quantity of data, most AI/ML systems cannot be realized. However, some simpler systems might rely on rule-based AI and may not need data as a primary factor to learn from. Other situations, for example, reinforcement learning may also need less of prior data to start functioning. Here are some factors related to data collection that are important to consider:
