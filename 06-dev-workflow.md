@@ -38,20 +38,19 @@ This section aims to define a high level process flow to develop a (standalone) 
     7. Data Balancing: The process of balancing the dataset if it is imbalanced across different outcomes of interest. Imbalanced datasets can negatively impact the performance of the machine learning model.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227791964-6c5d6863-8d33-493b-94cb-9e87a88f7da2.png" width="700" height="215" />
+<img src="https://user-images.githubusercontent.com/7511849/227791964-6c5d6863-8d33-493b-94cb-9e87a88f7da2.png" width="720" height="215" />
 </p>
       
 5. Exploratory Data Analysis: Exploratory Data Analysis (EDA) is an essential step in the machine learning development workflow that involves understanding the data and identifying patterns, relationships, and anomalies. Here are some factors related to EDA that are important to consider:
     1. Data Distribution: The distribution of the data can impact the choice of machine learning algorithm and the interpretation of the results. EDA helps in understanding the data distribution, such as whether it is normally distributed, skewed, or has outliers.
     2. Correlation Analysis: Correlation analysis helps in understanding the relationship between different variables in the dataset. It helps in identifying the most important features and removing redundant features.
     3. Data Visualization: Data visualization techniques, such as scatter plots, histograms, and box plots, help in identifying patterns and relationships in the data. This is important in identifying outliers, understanding the data distribution, and identifying relationships between variables.
-    4. Data Quality: EDA can help in identifying missing data, errors, or outliers in the dataset. These issues can affect the quality of the model and need to be addressed before training the model.
-    5. Feature Importance: EDA helps in identifying the most important features in the dataset. This helps in feature selection and building a more accurate machine learning model.
-    6. Data Scaling: EDA can help in identifying the scale of the data, such as whether it needs to be normalized or standardized before training the model.
-    7. Domain Knowledge: EDA can help in understanding the problem domain and the relevance of different features. This can lead to better feature engineering and model performance.
+    4. Feature Importance: EDA helps in identifying the most important features in the dataset. This helps in feature selection and building a more accurate machine learning model.
+    5. Data Scaling: EDA can help in identifying the scale of the data, such as whether it needs to be normalized or standardized before training the model.
+    6. Domain Knowledge: EDA can help in understanding the problem domain and the relevance of different features. This can lead to better feature engineering and model performance.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227792501-fb0ef557-f5e7-4a3b-8db3-e0673c1883b0.png" width="700" height="215" />
+<img src="https://user-images.githubusercontent.com/7511849/227792501-fb0ef557-f5e7-4a3b-8db3-e0673c1883b0.png" width="650" height="215" />
 </p>
 
 6. Feature Engineering: Feature engineering is a crucial step in the machine learning development workflow that involves selecting and transforming the raw data into meaningful features that can be used to train the machine learning model. Here are some factors and methods related to feature engineering that are important to consider:
@@ -64,7 +63,7 @@ This section aims to define a high level process flow to develop a (standalone) 
     7. Feature Generation: Feature generation involves creating new features from the existing features using domain-specific knowledge or machine learning algorithms. This can include techniques such as Clustering, Text Analysis, and Image Processing.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227792500-642b223f-4964-4a6b-804e-0e1a12ff9927.png" width="650" height="215" />
+<img src="https://user-images.githubusercontent.com/7511849/227792500-642b223f-4964-4a6b-804e-0e1a12ff9927.png" width="720" height="215" />
 </p>
 
 7. Model Selection: Choosing the appropriate AI/ML algorithm for the problem at hand is the next obvious step. While choosing the model, it is important to take into account factors such as the size and type of data, computational resources, and the desired outcome. It is pertinent to mention that the model selection at this stage is from within the category of method decided during step 2. Here are some factors related to model selection that are important to consider:
@@ -74,8 +73,11 @@ This section aims to define a high level process flow to develop a (standalone) 
     4. Accuracy Requirements: The required level of accuracy can impact the choice of machine learning algorithm. Some algorithms may be more accurate than others, but may also be more complex or require more computational resources.
     5. Interpretability Requirements: The required level of interpretability can impact the choice of machine learning algorithm. Some algorithms may provide more interpretability than others, making it easier to understand how the model is making its predictions.
     6. Ensemble Methods: Ensemble methods involve combining multiple machine learning algorithms to create a more accurate and robust model. The choice of ensemble method can impact the performance of the model.
-    7. Hyperparameter Tuning: The performance of a machine learning algorithm can be improved by tuning its hyperparameters. The choice of hyperparameters and the method used to tune them can impact the performance of the model.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227793999-12b64882-089e-40ca-8c59-a0c4d33a236e.png" width="650" height="215" />
+</p>
+          
 8. Model Training and Validation: The chosen model(s) is trained on the preprocessed data and its performance is evaluated using appropriate metrics. A number of different models can be trained to select the most suitable one considering the accuracy and efficiency requirements. During validation, the model undergoes a test as if it is deployed in a real environment. Factors like overfitting are preempted and taken care of at this step. Here are some factors and methods related to model training and validation that are important to consider:
     1. Dataset Splitting: The dataset should be split into a training set and a validation set. The training set is used to train the machine learning model, while the validation set is used to evaluate its performance. The typical split is 80% for training and 20% for validation.
     2. Cross-Validation: Cross-validation is a technique that involves splitting the dataset into multiple subsets, training the model on some subsets, and evaluating its performance on others. This can help to reduce the risk of overfitting and provide a more accurate estimate of the model's performance.
@@ -85,6 +87,10 @@ This section aims to define a high level process flow to develop a (standalone) 
     6. Hyperparameter Tuning: Hyperparameter tuning involves selecting the best values for the hyperparameters of the machine learning algorithm. This can be done using techniques such as grid search, random search, or Bayesian optimization.
     7. Performance Metrics: Performance metrics are used to evaluate the performance of the machine learning model. Different performance metrics may be used depending on the problem type, such as accuracy, precision, recall, F1 score, or ROC-AUC score.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227794090-1dc6b5fb-7b27-444b-8fde-ab6d0e4cf4a2.png" width="720" height="215" />
+</p>
+
 9. Model Deployment: The system is considered in ready state after the training and validation cycle is completed. However, the journey does not end here. Most often, the trained models are deployed for use as interactive applications on cloud platforms that need relevant skills. Provision of resources and scaling according to the number of users and access frequency is vital in this context. Here are some factors and methods related to model deployment that are important to consider:
     1. Hardware and Software Infrastructure: The machine learning model requires hardware and software infrastructure to run in a production environment. The infrastructure should be selected based on the specific requirements of the model, such as processing power, memory, and storage.
     2. Data Pipeline: The machine learning model requires a data pipeline to receive input data and produce output data. The data pipeline should be designed to handle the specific data format and volume required by the model.
@@ -92,7 +98,10 @@ This section aims to define a high level process flow to develop a (standalone) 
     4. API Design: The machine learning model should be exposed through an API that allows it to be easily integrated into other systems. The API should be designed to handle the specific input and output formats required by the model.
     5. Scalability: The machine learning model should be designed to scale to handle increasing amounts of data and traffic. This may require additional hardware resources or the use of distributed computing technologies.
     6. Security: The machine learning model should be secured to prevent unauthorized access or tampering. This may require the use of encryption, authentication, and access control mechanisms.
-    7. Monitoring and Maintenance: The machine learning model should be monitored and maintained to ensure that it continues to perform well over time. This may involve monitoring for changes in input data distribution, monitoring for changes in model performance, and performing regular maintenance tasks such as updating dependencies and retraining the model.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227794178-b0659dab-3deb-43b6-8690-1c9bd7f3d039.png" width="650" height="215" />
+</p>
 
 10. Monitoring and Maintenance: While system is in production, continuous monitoring of the performance of the deployed model and make updates as necessary to ensure it remains accurate and relevant is key to successful system. The data, methods, models may all need fine-tuning and/or replacements overtime as the system evolves. Here are some factors and methods related to monitoring and maintenance that are important to consider:
     1. Data Drift: Data drift refers to changes in the distribution of input data over time. Monitoring for data drift is important to ensure that the deployed machine learning model continues to perform well on new data. This can be done by comparing the distribution of new data to the distribution of the training data.
@@ -101,5 +110,9 @@ This section aims to define a high level process flow to develop a (standalone) 
     4. Retraining: The deployed machine learning model may need to be retrained periodically to account for changes in the input data or to improve its performance. This may involve collecting new data, selecting a new algorithm or adjusting the hyperparameters, and retraining the model on the updated data.
     5. Security: Monitoring for security issues is important to prevent unauthorized access or tampering with the deployed machine learning model. This may involve regular security audits, monitoring access logs, and implementing access controls.
     6. Documentation: The deployed machine learning model should be well documented to ensure that it can be easily understood and maintained over time. This may involve documenting the model architecture, input and output formats, and any specific requirements for the data pipeline or infrastructure.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227794236-18214480-2ae5-41a1-8f44-27f3c68cb184.png" width="600" height="215" />
+</p>
 
 This is not an exhaustive list of steps to describe the workflow of an AI-based system but presents a high level general view of the course of action along the way.
