@@ -38,7 +38,7 @@ This section aims to define a high level process flow to develop a (standalone) 
     7. Data Balancing: The process of balancing the dataset if it is imbalanced across different outcomes of interest. Imbalanced datasets can negatively impact the performance of the machine learning model.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227790840-4628a3ac-7e3c-4e83-8c7f-d6451c00f7eb.png" width="700" height="215" />
+<img src="https://user-images.githubusercontent.com/7511849/227791964-6c5d6863-8d33-493b-94cb-9e87a88f7da2.png" width="700" height="215" />
 </p>
       
 5. Exploratory Data Analysis: Exploratory Data Analysis (EDA) is an essential step in the machine learning development workflow that involves understanding the data and identifying patterns, relationships, and anomalies. Here are some factors related to EDA that are important to consider:
@@ -49,7 +49,10 @@ This section aims to define a high level process flow to develop a (standalone) 
     5. Feature Importance: EDA helps in identifying the most important features in the dataset. This helps in feature selection and building a more accurate machine learning model.
     6. Data Scaling: EDA can help in identifying the scale of the data, such as whether it needs to be normalized or standardized before training the model.
     7. Domain Knowledge: EDA can help in understanding the problem domain and the relevance of different features. This can lead to better feature engineering and model performance.
-Overall, EDA is critical in understanding the data and identifying patterns and relationships that can help in building an accurate and relevant machine learning model. By properly conducting EDA, one can identify the most important features, remove irrelevant or redundant features, and ensure the data is of high quality before training the machine learning model.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227792501-fb0ef557-f5e7-4a3b-8db3-e0673c1883b0.png" width="700" height="215" />
+</p>
 
 6. Feature Engineering: Feature engineering is a crucial step in the machine learning development workflow that involves selecting and transforming the raw data into meaningful features that can be used to train the machine learning model. Here are some factors and methods related to feature engineering that are important to consider:
     1. Domain Knowledge: Having domain knowledge about the problem and the data can help in identifying relevant features that can contribute to the accuracy of the machine learning model.
@@ -59,6 +62,10 @@ Overall, EDA is critical in understanding the data and identifying patterns and 
     5. Feature Encoding: Feature encoding involves converting categorical variables into numerical variables that can be used by the machine learning model. This can include techniques such as One-Hot Encoding, Label Encoding, and Binary Encoding.
     6. Feature Combination: Feature combination involves combining multiple features to create new features that can be more informative than the individual features. This can include techniques such as Polynomial Features and Feature Interactions.
     7. Feature Generation: Feature generation involves creating new features from the existing features using domain-specific knowledge or machine learning algorithms. This can include techniques such as Clustering, Text Analysis, and Image Processing.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227792500-642b223f-4964-4a6b-804e-0e1a12ff9927.png" width="650" height="215" />
+</p>
 
 7. Model Selection: Choosing the appropriate AI/ML algorithm for the problem at hand is the next obvious step. While choosing the model, it is important to take into account factors such as the size and type of data, computational resources, and the desired outcome. It is pertinent to mention that the model selection at this stage is from within the category of method decided during step 2. Here are some factors related to model selection that are important to consider:
     1. Problem Type: The type of problem being solved can impact the choice of machine learning algorithm. For example, classification problems may require different algorithms than regression problems.
