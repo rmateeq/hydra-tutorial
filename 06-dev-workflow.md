@@ -7,7 +7,7 @@ This section aims to define a high level process flow to develop a (standalone) 
 1. Problem Definition: As with all, the journey of AI-based systems also begin with problem definition. A few questions are important to identify if AI is the suitable approach for the problem under consideration. For example, why can't the system be implemented using legacy exhaustive algorithmic approaches?, is the system supposed to learn and evolve overtime? Once the need for AI is well understood, the next set of questions arise that tend to define the business objective, target audience, data availability, overall feasibility, and success criteria. Having defined the problem, next step is to determine if AI/ML can be used to address it.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/227782937-6f75873b-61f6-41d6-91f7-39170bbb73c0.png" width="450" height="275" />
+<img src="https://user-images.githubusercontent.com/7511849/227782937-6f75873b-61f6-41d6-91f7-39170bbb73c0.png" width="450" height="295" />
 </p>
 
 2. Chosing Method: Once the problem is defined and it is decided that it is more viable and suitable to solve it using AI instead of legacy exhaustive methods, the next step is to decide the type of AI to solve the problem. From rule-based AI to different types of ML and deep learning models may be considered and choosen based on the relevant factor. These factors may include the type of problem (e.g., classification, regression, clustering, etc.), type and size of data as the data may be labelled or unlabelled, structured or unstructured, stores using conventional or modern scalable systems, etc.
