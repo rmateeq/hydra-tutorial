@@ -32,11 +32,15 @@ This section aims to define a high level process flow to develop a (standalone) 
     1. Data Cleaning: The process of identifying and correcting or removing errors, incomplete data, or outliers that can affect the quality of the data.
     2. Data Transformation: The process of converting the raw data into a format that can be used by the machine learning model. This includes converting categorical data into numerical data, scaling or normalizing the data, and performing feature engineering.
     3. Handling Missing Data: The process of identifying and handling missing data in the dataset. This can include imputing missing data, removing rows with missing data, or using models that can handle missing data.
-    4. Feature Selection: The process of selecting the most relevant features that can contribute to the accuracy of the model while removing irrelevant or redundant features that can negatively impact performance.
+    4. Data Augmentation: The goal of data augmentation is to increase the size and variability of the training dataset by creating additional examples based on the original data. This can be done in a variety of ways, such as by rotating, flipping, or cropping images, or by adding noise or distortions to numerical data.
     5. Data Integration: The process of combining data from different sources or formats into a single dataset that can be used to train the machine learning model.
     6. Data Encoding: The process of converting categorical variables into numerical variables that can be used by the machine learning model. This includes one-hot encoding, label encoding, and ordinal encoding.
-    7. Data Balancing: The process of balancing the dataset if it is imbalanced. Imbalanced datasets can negatively impact the performance of the machine learning model.
+    7. Data Balancing: The process of balancing the dataset if it is imbalanced across different outcomes of interest. Imbalanced datasets can negatively impact the performance of the machine learning model.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7511849/227790840-4628a3ac-7e3c-4e83-8c7f-d6451c00f7eb.png" width="700" height="215" />
+</p>
+      
 5. Exploratory Data Analysis: Exploratory Data Analysis (EDA) is an essential step in the machine learning development workflow that involves understanding the data and identifying patterns, relationships, and anomalies. Here are some factors related to EDA that are important to consider:
     1. Data Distribution: The distribution of the data can impact the choice of machine learning algorithm and the interpretation of the results. EDA helps in understanding the data distribution, such as whether it is normally distributed, skewed, or has outliers.
     2. Correlation Analysis: Correlation analysis helps in understanding the relationship between different variables in the dataset. It helps in identifying the most important features and removing redundant features.
