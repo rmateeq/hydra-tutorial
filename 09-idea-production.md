@@ -11,5 +11,6 @@ The model is then trained and validated using a portion of the data. The model's
 After deployment, maintenance activities must be carried out to ensure that the model continues to perform optimally. This step involves monitoring the model's performance, retraining the model as needed, and updating the model to accommodate changes in the data or problem. Regular maintenance is essential to ensure that the model continues to provide accurate and relevant predictions or classifications.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/7511849/228364343-b11f0405-d2f7-435b-b74e-57129ee4ed2e.png" width="850" height="1010" />
+<img src="https://user-images.githubusercontent.com/7511849/228364643-701f6dab-29ea-4829-b37a-5b96f1092c4d.png" width="850" height="1010" />
 </p>
+
