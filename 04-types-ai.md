@@ -1,22 +1,22 @@
 ## Types of AI
 
-AI is a broad term that has evolved overtime. The purpose here is to understand the necessary types of artifacts, constructs, and models that AI provides to make software applications intelligent. Although, this list is long, let's confine te discussion to two broad categories, namely rule-based AI and machine learning.
+AI is a broad term that has evolved. The purpose here is to understand the necessary types of artifacts, constructs, and models that AI provides to make software applications intelligent. Although, this list is long, let's confine the discussion to two broad categories, namely rule-based AI and machine learning.
 
 ### Rule-based AI
-Rule-based AI is considered a simple technique that tries to represent the domain knowledge and inference rules to draw conclusions. For example, consider the situation where we need to represent the rule "all men are mortal" in a way that it can be used to draw new inferences. It can be represented using the following predicate logic:
+Rule-based AI is considered a simple technique that tries to represent the domain knowledge and inference rules to conclude. For example, consider the situation where we need to represent the rule "all men are mortal" in a way that we can be used to draw new inferences. It can be represented using the following predicate logic:
 
 - ∀ X man(X) → mortal(X) (read as "for all X, if X is a man, then X is mortal". Here X is a variable)
 
-This rule can be used in combination with domain knoelwedge to draw inferences. For example:
+This rule can be used in combination with domain knowledge to draw inferences. For example:
 
-- man(socrates) (read as "socates is a man")
+- man(Socrates) (read as "Socrates is a man")
 
-This predicate can be used with the above rule to draw the inference that "socrates is mortal".
+This predicate can be used with the above rule to draw the inference that "Socrates is mortal".
 
-The major limitation of this rule-based AI is that it can be used to build deterministic systems only where the data is small and rules are clear. Such systems cannot learn new things themselves.
+The major limitation of this rule-based AI is that it can be used to build deterministic systems only where the data is small and the rules are clear. Such systems cannot learn new things themselves.
 
 ### Machine Learning
-Machine learning on the other hand has the capability to define it's own rules based on data. The system can learn and adapt as new data emerges. This capacity to learn and adapt has made machine learning the most popular choice while integrating intelligence is software systems.
+Machine learning on the other hand can define its own rules based on data. The system can learn and adapt as new data emerges. This capacity to learn and adapt has made machine learning the most popular choice while integrating intelligence into software systems.
 As an example, let's consider the question [this example is taken from Sebastian Thun's Intro to ML course on Udacity]
 
 - "is horse an acerous?"
@@ -34,7 +34,7 @@ What is an acerous? Well, instead of answering this question directly, let's hav
 - A parrot is acerous
 - A deer is non-acerous
 
-Before answering this question, let's discuss the approach. We need to look at different features to decide. These features could be color, number of legs, and horns, etc. And it happens that a horse is an **acerous**. Why? Because a horse does not have either horns or antlers. Whereas, all the animals in non-acerous group have. This demonstrates the process and capability of machine learning to learn something new by itself as new data emerges. 
+Before answering this question, let's discuss the approach. We need to look at different features to decide. These features could be color, number of legs, horns, etc. And it happens that a horse is an **acerous**. Why? Because a horse does not have either horns or antlers. Whereas, all the animals in the non-acerous group have. This demonstrates the process and capability of machine learning to learn something new by itself as new data emerges. 
 
 Machine learning is further classified into different categories. Although, it is a vast developing debate, however, some popular approaches are listed below:
 
@@ -47,42 +47,40 @@ Machine learning is further classified into different categories. Although, it i
 Let's discuss these types in slight detail.
 
 #### Supervised Learning
-It is widely beieved that most of the value that machine learning is generating is coming from supervised learning. In this approach the historical data is available with true answers. A model is trained on that data to learn the general pattern in the data and is later used to predict the cases where true answer is not known. The example of "horse being acerous" perfectly fits in this category because we knew for different animals whether they were acerous or not. Through those examples, machine learning would somehow generalize the facts that lead to the conclusion of another (initially uncategorized) animal being acerous or not. 
+It is widely believed that most of the value that machine learning is generating is coming from supervised learning. In this approach, the historical data is available with true answers. A model is trained on that data to learn the general pattern in the data and is later used to predict the cases where the true answer is not known. The example of "horse being acerous" perfectly fits in this category because we knew different animals whether they were acerous or not. Through those examples, machine learning would somehow generalize the facts that lead to the conclusion of another (initially uncategorized) animal being acerous or not. 
 
 ------>
-`Supervised learning is further divided into two sub-categories: classification, and regression. In classification, the output is categorical and is limited. In the example of horse being acerous or non-acerous, the output is categorical and we are trying to classify an animal into pre-defined set of classes (which in this case are two). In regression, the output is continuous. A common example is to predict the house prices based on different features like area, number of bedroom, etc.`
+`Supervised learning is further divided into two sub-categories: classification, and regression. In classification, the output is categorical and limited. In the example of a horse being acerous or non-acerous, the output is categorical and we are trying to classify an animal into a pre-defined set of classes (which in this case are two). In regression, the output is continuous. A common example is to predict house prices based on different features like area, number of bedrooms, etc.`
 <-------
 
 #### Unsupervised Learning
-Like supervised learning, unspervised learning also basis it's outcomes in data. However, unlike supervised learning, the data is not labeled or the true answers are not known. One of the most common example of unsupervised learning is news article grouping or clustering based on common terms and/or themes. As a more tanglible case, Google groups the news articles from various sources and publishers based on commmon terms. Anomaly detection often also falls under unsupervised learning.
+Like supervised learning, unsupervised learning also bases its outcomes on data. However, unlike supervised learning, the data is not labeled or the true answers are not known. One of the most common examples of unsupervised learning is news article grouping or clustering based on common terms and/or themes. As a more tangible case, Google groups news articles from various sources and publishers based on common terms. Anomaly detection often also falls under unsupervised learning.
 
 #### Recommender Systems
-Recommender systems can be based on either or both of supervised and unsupervised learning. Considering the growing usage, and demand, many experts treat recommender systems as a special category in machine learning. In a supervised learning approach, the model is trained on labeled data where the target variable is the item that the user has previously interacted with (e.g. watched, bought, etc.). The model then predicts what items the user might be interested in based on the previous interactions. Whereas, in unsupervised learning, the model tries to identify patterns in the user's behavior without being explicitly told what the user might be interested in. The model then recommends items based on the identified patterns.
+Recommender systems can be based on either or both supervised or unsupervised learning. Considering the growing usage, and demand, many experts treat recommender systems as a special category in machine learning. In a supervised learning approach, the model is trained on labeled data where the target variable is the item that the user has previously interacted with (e.g. watched, bought, etc.). The model then predicts what items the user might be interested in based on the previous interactions. Whereas, in unsupervised learning, the model tries to identify patterns in the user's behavior without being explicitly told what the user might be interested in. The model then recommends items based on the identified patterns.
 
 #### Reinforcement Learning
-Unlike supervised and unsupervised learning, in reinforcement learning, there is no historical data to learn from. An agent learns to make decisions by interacting with the system in real-time. The systems uses rewards for good decisions and penalties for bad decisions. Playing chess or any other game as well as self-driving cars use reinformcement learning to improve the performance over time. In chess, an agent (player) can make moves and receive a reward for making good moves and a penalty for making bad moves. Over time, the agent will learn to make better moves based on the rewards and penalties it receives, eventually leading to it becoming a skilled chess player.
+Unlike supervised and unsupervised learning, in reinforcement learning, there is no historical data to learn from. An agent learns to make decisions by interacting with the system in real time. The system uses rewards for good decisions and penalties for bad decisions. Playing chess or any other game as well as self-driving cars use reinforcement learning to improve performance over time. In chess, an agent (player) can make moves and receive a reward for making good moves and a penalty for making bad moves. Over time, the agent will learn to make better moves based on the rewards and penalties it receives, eventually leading to it becoming a skilled chess player.
 
---------->
-`In the following table, we list a few primitive examples of supervised, unsupervised, and reinforcement learning.`
+In the following table, we list a few primitive examples of supervised, unsupervised, and reinforcement learning.
 
 
 <p align="center">
   
 |Learning Type|Sub-Category|Example|
 |----------|----------|----------|
-|Supervised|Classification|Predicting if an email is spam or not based on its content.|
-|Supervised|Classification|Predicting a disease based on patient's record.|
+|Supervised|Classification|Predicting if an email is a spam or not based on its content.|
+|Supervised|Classification|Predicting a disease based on a patient's record.|
 |Supervised|Regression|Predicting the price of a house based on its features such as number of rooms, location, and square footage, etc.|
 |Supervised|Regression|Predicting stock price based on company's data and market trends, etc.|
 |Unsupervised|Clustering|Grouping customers into different segments based on their purchasing behavior.|
 |Unsupervised|Anomaly Detection|Detecting fraudulent transactions in a financial dataset.|
-|Unsupervised|Recommender System|Recommending movies by grouping of users based on similar interests.|
-|Reinforcement||An agent can learn to pick up a box and place it on a table by receiving a positive reward for successfully completing the task and a negative reward for dropping the box.|
+|Unsupervised|Recommender System|Recommending movies by the grouping of users based on similar interests.|
+|Reinforcement||An agent can learn to pick up a box and place it on a table by receiving a positive reward for completing the task and a negative reward for dropping the box.|
 
 </p>
-<----------
 
 #### Deep Learning
-Having discussed primary categories of machine learning with some brief examples, it is inevitable to mention deep learning to complete the discussion. Deep learning has taked to the world by storm recently by laveraging it's capability to learn in systems involving massive and complex data. Deep learning is being used to realized some amazing applications in computer vision, speech recognition, natural language processing, and generative models (that can generate new data based on existing data).
+Having discussed primary categories of machine learning with some brief examples, it is inevitable to mention deep learning to complete the discussion. Deep learning has taken to the world by storm recently by leveraging its capability to learn in systems involving massive and complex data. Deep learning is being used to realize some amazing applications in computer vision, speech recognition, natural language processing, and generative models (that can generate new data based on existing data).
 
-In the next section, we turn our attnetion to some popular use case of different types of AI.
+In the next section, we turn our attention to some popular use cases of different types of AI.
