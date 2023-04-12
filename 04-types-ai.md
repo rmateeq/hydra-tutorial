@@ -103,6 +103,8 @@ Diffusion models are a class of probabilistic generative models that have recent
 
 The following table summarizes the popular deep learning models and their applications.
 
+<p align="center">
+
 |Model Name|	Model Type|	Example|
 |---------|---------|---------|
 |Feedforward Network|	Supervised|	Image classification, text classification, regression|
@@ -112,4 +114,6 @@ The following table summarizes the popular deep learning models and their applic
 |Transformer-based Model|	Supervised/Unsupervised|	Language translation, text generation, image captioning, question answering|
 |Diffusion Model|	Unsupervised|	Image synthesis, video synthesis, anomaly detection, image inpainting|
 
+</p>
+  
 In the next section, we turn our attention to some popular use cases of different types of AI.
