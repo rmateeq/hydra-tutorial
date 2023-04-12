@@ -78,7 +78,27 @@ In the following table, we list a few primitive examples of supervised, unsuperv
 
 </p>
 
-#### Deep Learning
+### Deep Learning
 Having discussed primary categories of machine learning with some brief examples, it is inevitable to mention deep learning to complete the discussion. Deep learning has taken to the world by storm recently by leveraging its capability to learn in systems involving massive and complex data. Deep learning is being used to realize some amazing applications in computer vision, speech recognition, natural language processing, and generative models (that can generate new data based on existing data).
+
+Deep learning harnesses the power of deep neural networks to effectively solve complex problems that other types of machine learning falls short of. In the following, some popular types of deep neural networks are listed.
+
+#### Feedforward Neural Networks (FFNNs)
+FFNN are a type of artificial neural network where the information flows in a single direction, from the input layer to the output layer. The FFNN banks of backpropagation to complete the training. It is sometimes called multi-layer perceptrons because they consist of multiple layers of perceptrons. FFNNs are commonly used for pattern recognition, regression, time series analysis, natural language processing, and recommendation systems.
+
+#### Convolutional Neural Networks (CNNs)
+CNNs are a type of neural network that are particularly effective for processing and analyzing data with a grid-like structure, such as images or audio signals. Unlike feedforward neural networks, which process input data in a single pass through a series of layers, in CNNs the convolutional layers apply a set of filters to the input data, which extract different features at different spatial locations in the input. Common applications of CNNs include image classification, object detection, face recognition, speech recognition, and medical image analysis.
+
+#### Recurrent Neural Networks (RNNs)
+RNNs (including long short-term memory: LSTM) are a type of neural network that are particularly effective for processing sequential data, such as time series or natural language text. In contrast to convolutional neural networks, which are particularly effective for processing grid-like data such as images, RNNs are particularly effective for processing sequential data. While CNNs use convolutional layers to extract features from the input data, RNNs use loops in their architecture to capture temporal dependencies in the input data. In contrast to feedforward neural networks, which process input data in a single pass, RNNs use feedback loops to allow information to persist over time. Some particular applications of RNNs are language modeling (e.g., predict the probability distribution over the next word in a sequence of words), speech recognition, time series analysis (e.g., predicting stock prices or weather patterns), and machine translation.
+
+#### Generative Adversarial Networks (GANs)
+GNNs are a type of neural network architecture that consists of two networks: a generator and a discriminator. The generator learns to produce synthetic data that is similar to real data, while the discriminator learns to distinguish between real and fake data. GANs are typically used for generative modeling tasks, where the goal is to learn a probability distribution over the data and generate new samples from it. Some prominent applications of GANs are image, video, and text generation; drug discovery, and game design.
+
+#### Tranformer based Models
+Transformers are a type of neural network architecture that have gained popularity in recent years, particularly for natural language processing. Unlike CNNs and RNNs, which operate on fixed-length inputs, transformers can handle variable-length sequences of inputs. Transformers are designed to capture long-range dependencies in sequential data by using a self-attention mechanism. This allows the model to attend to different parts of the input sequence at different time steps, and has been highly successful in NLP tasks such as language translation, question-answering, and text generation. Some popular transformer-based models include GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations from Transformers), T5 (Text-to-Text Transfer Transformer), and ViT (Vision Transformer).
+
+#### Diffusion Models
+Diffusion models are a class of probabilistic generative models that have recently gained popularity in the deep learning community. Unlike traditional deep learning models that are designed to perform specific tasks such as classification or prediction, diffusion models are used to model complex probability distributions over high-dimensional data, such as images or video. One of the main advantages of diffusion models is their ability to generate high-quality samples from complex distributions, which makes them well-suited for applications such as image and video generation, data augmentation, and anomaly detection. Some recent applications of diffusion models are image generation, video generation, and data augmentation.
 
 In the next section, we turn our attention to some popular use cases of different types of AI.
