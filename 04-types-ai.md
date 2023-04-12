@@ -95,7 +95,7 @@ RNNs (including long short-term memory: LSTM) are a type of neural network that 
 #### Generative Adversarial Networks (GANs)
 GNNs are a type of neural network architecture that consists of two networks: a generator and a discriminator. The generator learns to produce synthetic data that is similar to real data, while the discriminator learns to distinguish between real and fake data. GANs are typically used for generative modeling tasks, where the goal is to learn a probability distribution over the data and generate new samples from it. Some prominent applications of GANs are image, video, and text generation; drug discovery, and game design.
 
-#### Tranformer based Models
+#### Transformer based Models
 Transformers are a type of neural network architecture that have gained popularity in recent years, particularly for natural language processing. Unlike CNNs and RNNs, which operate on fixed-length inputs, transformers can handle variable-length sequences of inputs. Transformers are designed to capture long-range dependencies in sequential data by using a self-attention mechanism. This allows the model to attend to different parts of the input sequence at different time steps, and has been highly successful in NLP tasks such as language translation, question-answering, and text generation. Some popular transformer-based models include GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations from Transformers), T5 (Text-to-Text Transfer Transformer), and ViT (Vision Transformer).
 
 #### Diffusion Models
