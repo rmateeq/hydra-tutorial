@@ -101,4 +101,15 @@ Transformers are a type of neural network architecture that have gained populari
 #### Diffusion Models
 Diffusion models are a class of probabilistic generative models that have recently gained popularity in the deep learning community. Unlike traditional deep learning models that are designed to perform specific tasks such as classification or prediction, diffusion models are used to model complex probability distributions over high-dimensional data, such as images or video. One of the main advantages of diffusion models is their ability to generate high-quality samples from complex distributions, which makes them well-suited for applications such as image and video generation, data augmentation, and anomaly detection. Some recent applications of diffusion models are image generation, video generation, and data augmentation.
 
+The following table summarizes the popular deep learning models and their applications.
+
+|Model Name|	Model Type|	Example|
+|---------|---------|---------|
+|Feedforward Network|	Supervised|	Image classification, text classification, regression|
+|Convolutional Network|	Supervised|	Image classification, object detection, segmentation|
+|Recurrent Neural Network|	Supervised|	Time-series analysis, text analysis, speech recognition|
+|Generative Adversarial Network|	Unsupervised|	Image synthesis, data augmentation, anomaly detection|
+|Transformer-based Model|	Supervised/Unsupervised|	Language translation, text generation, image captioning, question answering|
+|Diffusion Model|	Unsupervised|	Image synthesis, video synthesis, anomaly detection, image inpainting|
+
 In the next section, we turn our attention to some popular use cases of different types of AI.
